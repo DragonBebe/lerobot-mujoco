@@ -1,0 +1,3 @@
+Fri Jul 11 14:14:35 2025
+WARNING: mixed solref format, replacing with default
+
